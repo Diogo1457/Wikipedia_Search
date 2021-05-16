@@ -6,7 +6,5 @@
 ### Run
 
 ``` 
-
 python3 wikipedia.py GitHub 
-
 ```
